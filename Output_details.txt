@@ -1,0 +1,69 @@
+---------- This file contains the details of the river image analysed ----------
+
+
+Threshold value used : 29.0
+Scale value used : 1
+Interval distance selected : 100
+Length of permissible dangling segments : 100
+Number of junctions : 203
+Number of reaches : 218
+Average width of the river : 7.763075360892043
+
+
+Data about the sections ----------------------------------------
+
+Section 1 -------------------------
+     Starting Distance : 0
+     Number of channels : 16
+     Average width : 6.503519423988692
+
+Section 2 -------------------------
+     Starting Distance : 100
+     Number of channels : 12
+     Average width : 7.613942940653759
+
+Section 3 -------------------------
+     Starting Distance : 200
+     Number of channels : 6
+     Average width : 7.6851339071527
+
+Section 4 -------------------------
+     Starting Distance : 300
+     Number of channels : 14
+     Average width : 8.751702375869566
+
+Section 5 -------------------------
+     Starting Distance : 400
+     Number of channels : 19
+     Average width : 7.098234917233959
+
+Section 6 -------------------------
+     Starting Distance : 500
+     Number of channels : 11
+     Average width : 8.094958393984292
+
+Section 7 -------------------------
+     Starting Distance : 600
+     Number of channels : 11
+     Average width : 8.219396130754445
+
+Section 8 -------------------------
+     Starting Distance : 700
+     Number of channels : 11
+     Average width : 8.360666343800888
+
+Section 9 -------------------------
+     Starting Distance : 800
+     Number of channels : 13
+     Average width : 8.453851206074148
+
+Section 10 -------------------------
+     Starting Distance : 900
+     Number of channels : 12
+     Average width : 8.15792399748426
+
+Section 11 -------------------------
+     Starting Distance : 1000
+     Number of channels : 5
+     Average width : 6.455168316176621
+
