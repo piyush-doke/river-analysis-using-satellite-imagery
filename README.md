@@ -17,7 +17,7 @@ NOTE: Created in Python 3.
 ├── __init__.py
 ├── junction.py
 ├── main.py
-├── output.txt.txt
+├── output.txt
 ├── reach.py
 ├── river.py
 ├── scan.py
