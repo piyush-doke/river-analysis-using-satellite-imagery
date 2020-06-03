@@ -1,7 +1,6 @@
-# River-Analysis-using-Satellite-Imagery
-I have developed a python program which analyzes various river features given a satellite image of that river, mainly the width of the river.
+# River Analysis Using Satellite Imagery
+A python program which analyzes various river features given a satellite image of that river, mainly the width of the river.
 
-NOTE - This code is meant for python 3
 
 ## About the files and folder
 - Documentation file contains all the information of the algorithm and the python libraries used
