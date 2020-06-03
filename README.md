@@ -1,10 +1,10 @@
 # River Analysis Using Satellite Imagery
 
+NOTE: Created in Python 3.
+
 ## Objective
 
 The average width of a river is crucial for calculating its discharge. But doing so for any point in time is difficult without chronological measurements, as temporal changes in river width are inevitable. Satellite imagery does a commendable job of preserving this historic data. And hence, a method compatible with this form of input was required.
-
-NOTE: Created in Python 3.
 
 ## About the Repository
 ```
