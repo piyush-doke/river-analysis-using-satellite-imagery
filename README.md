@@ -9,7 +9,7 @@ NOTE: Created in Python 3.
 ./river-analysis-using-satellite-imagery
 ├── docs
 │   └── Documentation.docx                  # Documentation for the algorithm
-├── temp                                    # Contains itermediate files generated during the run
+├── temp                                    # To contain itermediate files generated during a run
 │   └── ...
 ├── test_images                             # Contains sample images to test the code with
 │   └── ...
