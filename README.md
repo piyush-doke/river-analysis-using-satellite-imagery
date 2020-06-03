@@ -34,8 +34,7 @@ python main.py                              # Run the script using python 3
 - Name - Path to the river image.
 - Scale - Actual size of land represented by one pixel in the image (set this to 1 for calculating the width in pixels).
 - Interval Distance - Analysis is done in sections of equal length, this parameter is used to fix the length of each such section.
-- Threshold - Refer to ``
-for detailed information regarding this parameter (set this to 0 for auto-detection).
+- Threshold - Refer to [Documentation.docx](docs/Documentation.docx) for detailed information regarding this parameter (set this to 0 for auto-detection).
 
 ## Outputs
 ```
