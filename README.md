@@ -9,7 +9,7 @@ NOTE: Created in Python 3.
 - temp folder is used to contain any intermediate images that were generated during the run.
 - test_images folder contains some sample images to test the code with.
 
-## Instructions to Run
+## Instructions to run
 Run the python file - main.py
 
 ## Inputs
