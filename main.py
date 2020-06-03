@@ -76,7 +76,7 @@ for x in range(len(scan.l_average_width_section)):
 	details+='     Number of channels : '+str(scan.l_channels[x])+'\n'
 	details+='     Average width : '+str(scan.l_average_width_section[x]*scale)+'\n\n'
 
-with open('Output_details.txt', 'w') as write_file :
+with open('output.txt', 'w') as write_file :
 	write_file.write(details)
 # ---------------------------------------------------------------------------------------
 
