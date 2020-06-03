@@ -1,6 +1,8 @@
 # Implementation Guide
 A Python program that analyzes river features from satellite imagery.
 
+NOTE: Created in Python 3.
+
 
 ## About the files and folders
 - Documentation.docx contains detailed information on the algorithm and libraries used.
