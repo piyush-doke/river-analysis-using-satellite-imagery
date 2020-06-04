@@ -11,7 +11,7 @@ The average width of a river is crucial for calculating its discharge. But doing
 ./river-analysis-using-satellite-imagery
 ├── docs
 │   └── Documentation.docx                  # Documentation for the algorithm
-├── temp                                    # To contain itermediate files generated during a run
+├── temp                                    # To contain intermediate files generated during a run
 │   └── ...
 ├── test_images                             # Contains sample images to test the code with
 │   └── ...
