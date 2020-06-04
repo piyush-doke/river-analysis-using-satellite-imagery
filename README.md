@@ -4,7 +4,7 @@ NOTE: Created in Python 3.
 
 ## Description
 
-The average width of a river is crucial for calculating its discharge. But doing so for any point in time is difficult without chronological measurements, as temporal changes in river width are inevitable. Satellite imagery does a commendable job of preserving this historic data. Hence we programmed an algorithm compatible with this form of input.
+The average width of a river is crucial for calculating its discharge. But doing so for any point in time is difficult without chronological measurements, as temporal changes in river width are inevitable. Satellite imagery does a commendable job of preserving such historic data and our program utilizes the same to compute several physical features of interest, including the average river width.
 
 ## Repository Tree
 ```
@@ -41,4 +41,4 @@ python main.py                              # Run the script using python 3
 - Threshold - Refer to [Documentation.docx](docs/Documentation.docx) for detailed information regarding this parameter (set this to 0 for auto-detection).
 
 ### Outputs
-- Analysis results are dumped to [output.txt](output.txt)
+- Analysis results are dumped to [output.txt](output.txt).
