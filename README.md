@@ -4,7 +4,7 @@ NOTE: Created in Python 3.
 
 ## Description
 
-The average width of a river is crucial for calculating its discharge. But doing so for any point in time is difficult without chronological measurements, as temporal changes in river width are inevitable. Satellite imagery does a commendable job of preserving such historic data and our program utilizes the same to compute several physical features of interest, including the average river width.
+The average width of a river is crucial for calculating its discharge. But doing so for any point in time is difficult without chronological measurements, as temporal changes in river width are inevitable. Satellite imagery does a commendable job at preserving such historic data and our program utilizes the same to compute several physical features of interest, including the average river width.
 
 ## Repository Tree
 ```
