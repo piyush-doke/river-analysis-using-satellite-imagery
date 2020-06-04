@@ -29,7 +29,7 @@ The average width of a river is crucial for calculating its discharge. But doing
 
 ## Usage
 
-### Instructions to Run
+### How to Execute
 ```
 python main.py                              # Run the script using python 3
 ```
