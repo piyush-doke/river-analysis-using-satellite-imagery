@@ -2,11 +2,11 @@
 
 NOTE: Created in Python 3.
 
-## Objective
+## Description
 
-The average width of a river is crucial for calculating its discharge. But doing so for any point in time is difficult without chronological measurements, as temporal changes in river width are inevitable. Satellite imagery does a commendable job of preserving this historic data. And hence, a method compatible with this form of input was required.
+The average width of a river is crucial for calculating its discharge. But doing so for any point in time is difficult without chronological measurements, as temporal changes in river width are inevitable. Satellite imagery does a commendable job of preserving this historic data. Hence we programmed an algorithm compatible with this form of input.
 
-## About the Repository
+## Repository Tree
 ```
 ./river-analysis-using-satellite-imagery
 ├── docs
@@ -29,18 +29,16 @@ The average width of a river is crucial for calculating its discharge. But doing
 
 ## Usage
 
-#### Instructions to Run
+### Instructions to Run
 ```
 python main.py                              # Run the script using python 3
 ```
 
-#### Inputs
+### Inputs
 - Name - Path to the river image.
 - Scale - Actual size of land represented by one pixel in the image (set this to 1 for calculating the width in pixels).
 - Interval Distance - Analysis is done in sections of equal length, this parameter is used to fix the length of each such section.
 - Threshold - Refer to [Documentation.docx](docs/Documentation.docx) for detailed information regarding this parameter (set this to 0 for auto-detection).
 
-#### Outputs
-```
-output.txt                                  # Analysis results are dumped here
-```
+### Outputs
+- Analysis results are dumped to [output.txt](output.txt)
